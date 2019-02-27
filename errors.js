@@ -141,8 +141,8 @@ function totalProductCost(products) {
 
 
 function averageProductPrice(products) {
-  console.log(totalProductCost(products) / products.length);
-  return products / products.length;
+  return (totalProductCost(products) / products.length);
+
 
 }
 
@@ -152,7 +152,7 @@ function emptyList() {
   return [];
 }
 const functions = {
-  main, addProduct, totalProductCost, emptyList
+  main, addProduct, totalProductCost, emptyList, averageProductPrice
 }
 
 
