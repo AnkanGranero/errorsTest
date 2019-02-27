@@ -93,3 +93,11 @@ describe("add an Item", () => {
 
 });
 
+describe("Check average price", () => {
+    test('see if we get 60 back from two products that cost 80 and 40', () => {
+        products = [{ name: "mango", price: 80 }, { name: "korv med bröd", price: 40 }]
+        expect(functions.averageProductPrice(products)).toEqual(60);
+    }
+    )
+})
+
