@@ -101,3 +101,4 @@ describe("Check average price", () => {
     )
 })
 
+let x = "x";
