@@ -143,7 +143,6 @@ function totalProductCost(products) {
 function averageProductPrice(products) {
   return (totalProductCost(products) / products.length);
 
-
 }
 
 
