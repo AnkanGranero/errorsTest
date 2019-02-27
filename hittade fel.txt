@@ -1,0 +1,23 @@
+ 
+ fel med åäö
+sökfunktionen funkar inte
+sökfunktionen hade blandat in svenska på namn, jag gjorde den även caseinsensitive 
+
+avsluta funkar inte
+
+totalkostnad lägger endast till de nya varorna inte de som redan finns
+
+om vi tömmer listan och kollar pris så hänger den sig
+la till if sats där för att lösa det, så att om listan är noll så får man tillbaka 
+en sträng som säger det. 
+
+den visade även bara priset på en vara, jag fixade till det med måsvingar på forloopen och en return
+av totalCOst
+
+man kan lägga till Nan som pris och funktionen som gjorde den funkade inte 
+
+inget break mellan average price
+
+
+Avsluta har en mathrandom! :D
+Hej då

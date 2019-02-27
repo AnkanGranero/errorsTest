@@ -1,0 +1,10 @@
+FInd all references ( hitta alla platser den finns)
+
+peek definition ( se vad funktionen gör )
+
+
+
+typescript definierar vilken typ.
+
+
+

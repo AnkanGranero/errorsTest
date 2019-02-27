@@ -1,0 +1,3 @@
+kompilering , tex java till ettor och nollor
+transpilering tex javaS till typescript 
+
